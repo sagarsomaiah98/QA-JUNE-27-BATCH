@@ -1,0 +1,23 @@
+CONVERTING ONE DATA TYPE INTO ANOTHER DATA TYPE
+
+INTEGER TO DOUBLE
+int m=22;
+double k= m;
+
+
+DOUBLE TO INTEGER
+
+double j=34.2;
+int p= (int)j;
+
+Note: you will see loose decimal point
+
+
+STRING TO INTEGER
+String s= "456";
+int j= Integer.parse(s);
+
+
+INTEGER TO STRING
+int a=98;
+String g= String.valueOf(a);
