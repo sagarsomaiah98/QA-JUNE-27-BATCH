@@ -1,16 +1,31 @@
 package com.emonics.assignment;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.time.LocalDate;
+import java.time.Period;
+import java.util.Date;
+
 public class FindAge {
 	
 	
-	public void findage(int day, int month, int year) {
-	int d=7;
-	int m=7;
-	int y=2022;
+	public void findage(int year, int month, int day) throws ParseException {
 	
-	int d1= day-d;
-	int m1= month-m;
-	int y1= y-year;
+		LocalDate today = LocalDate.now();
+		
+		LocalDate birthday = LocalDate.of(year,month, day);
+
+		Period period = Period.between(birthday, today);
+		
+		System.out.println(period);
+
+		//Now access the values as below
+		int d1=period.getDays();
+		int m1=period.getMonths();
+		int y1=period.getYears();	
+		
+		
+		
 	
 	System.out.println(y1+" years "+m1+ " months "+ d1+" days");
 		
@@ -19,10 +34,10 @@ public class FindAge {
 		
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws ParseException {
 		
 		FindAge f= new FindAge();
-		f.findage(20,10,1990);
+		f.findage(1990,10,20);
 		//31 years 8 months 17 days
 
 	}
