@@ -20,7 +20,7 @@ System.setProperty("webdriver.chrome.driver", "S:\\EC\\WORKSPACE\\QA JUNE 27 BAT
 		Thread.sleep(3000);
 		Actions a = new Actions(driver);
 		
-		a.doubleClick(ele).click();
+		a.doubleClick(ele).perform();
 
 	}
 
