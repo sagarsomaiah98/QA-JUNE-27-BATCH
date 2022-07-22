@@ -624,3 +624,100 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestUtil references
 	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
 	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-21 04:08:53,957 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-07-21 09:31:02,825 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-21 11:23:33,840 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\pom.xml
+2022-07-21 11:23:38,481 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SampleMaven:SampleMaven:0.0.1-SNAPSHOT @ S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\pom.xml.
+2022-07-21 11:23:39,920 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleMaven/src/main/java
+2022-07-21 11:23:39,925 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleMaven/src/test/java
+2022-07-21 11:23:39,998 [Worker-50: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2022-07-21 11:23:40,604 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:23:40,605 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:23:40,608 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:23:40,609 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:29:36,661 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-07-21 11:29:37,127 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SampleMaven:SampleMaven:0.0.1-SNAPSHOT @ S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\pom.xml.
+2022-07-21 11:29:37,307 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleMaven/src/main/java
+2022-07-21 11:29:37,308 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleMaven/src/test/java
+2022-07-21 11:29:37,397 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-07-21 11:29:37,608 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:29:37,609 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:29:37,611 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:29:37,611 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:30:09,626 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SampleMaven:SampleMaven:0.0.1-SNAPSHOT @ S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\pom.xml.
+2022-07-21 11:30:15,547 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:30:15,548 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:30:15,550 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:30:15,551 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:30:17,474 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:30:17,475 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:30:17,477 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:30:17,477 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:30:59,260 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:30:59,261 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:30:59,264 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:30:59,265 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:31:05,921 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:31:05,922 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:31:05,924 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:31:05,924 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:32:48,298 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SampleMaven:SampleMaven:0.0.1-SNAPSHOT @ S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\pom.xml.
+2022-07-21 11:32:50,388 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:32:50,389 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:32:50,391 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:32:50,391 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:32:52,161 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:32:52,161 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:32:52,164 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:32:52,164 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:34:03,251 [Worker-57: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SampleMaven:SampleMaven:0.0.1-SNAPSHOT @ S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\pom.xml.
+2022-07-21 11:34:03,948 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:34:03,948 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:34:03,951 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:34:03,951 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:34:05,734 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:34:05,734 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:34:05,736 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:34:05,737 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:34:43,076 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:34:43,077 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:34:43,079 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:34:43,079 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:35:11,873 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:35:11,873 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:35:11,876 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:35:11,876 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:37:10,257 [Worker-44: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:37:10,257 [Worker-44: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:37:10,258 [Worker-44: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:37:10,258 [Worker-44: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:38:25,055 [Worker-60: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:38:25,055 [Worker-60: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:38:25,056 [Worker-60: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:38:25,057 [Worker-60: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:39:04,610 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:39:04,611 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:39:04,614 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:39:04,614 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:40:48,323 [Worker-54: Launching AddTocartTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:40:48,324 [Worker-54: Launching AddTocartTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:40:48,328 [Worker-54: Launching AddTocartTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:40:48,328 [Worker-54: Launching AddTocartTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:41:16,968 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:41:16,968 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:41:16,970 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:41:16,970 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:41:43,454 [Worker-57: Launching LogOutTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:41:43,454 [Worker-57: Launching LogOutTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:41:43,455 [Worker-57: Launching LogOutTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:41:43,456 [Worker-57: Launching LogOutTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:43:13,497 [Worker-57: Launching Executing test in S__EC_WORKSPACE_QA JUNE 27 BATCH_SampleMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven
+2022-07-21 11:43:13,498 [Worker-57: Launching Executing test in S__EC_WORKSPACE_QA JUNE 27 BATCH_SampleMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2022-07-21 11:43:42,554 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:43:42,555 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:43:42,556 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:43:42,556 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-21 11:48:24,857 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:48:24,857 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-21 11:48:24,859 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-21 11:48:24,859 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
