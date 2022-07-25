@@ -733,3 +733,257 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestUtil references
 2022-07-24 14:07:31,270 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
 2022-07-24 23:01:40,215 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2022-07-25 09:21:28,846 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-25 10:19:52,929 [Worker-15: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\pom.xml
+2022-07-25 10:19:54,447 [Worker-15: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Sauce_Framework:Sauce_Framework:0.0.1-SNAPSHOT @ S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\pom.xml.
+2022-07-25 10:19:54,957 [Worker-15: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sauce_Framework/src/main/java
+2022-07-25 10:19:54,962 [Worker-15: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sauce_Framework/src/test/java
+2022-07-25 10:19:55,130 [Worker-15: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-07-25 10:19:55,546 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:19:55,546 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:19:55,551 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:19:55,551 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:20:15,811 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:20:15,811 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:20:15,821 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:20:15,822 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:20:21,372 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:20:21,372 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:20:21,375 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:20:21,376 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:22:13,437 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Sauce_Framework:Sauce_Framework:0.0.1-SNAPSHOT @ S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\pom.xml.
+2022-07-25 10:22:19,689 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:22:19,690 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:22:19,693 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:22:19,693 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:22:46,680 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:22:46,680 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:22:46,682 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:22:46,682 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:23:05,984 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:23:05,984 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:23:05,987 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:23:05,987 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:23:20,621 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:23:20,621 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:23:20,624 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:23:20,624 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:23:32,809 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:23:32,809 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:23:32,814 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:23:32,814 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:23:50,788 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:23:50,788 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:23:50,791 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:23:50,791 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:24:14,326 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:24:14,327 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:24:14,330 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:24:14,330 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:28:27,690 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:28:27,690 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:28:27,694 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:28:27,694 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:36:27,628 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:36:27,628 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:36:27,630 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:36:27,630 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:38:21,656 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:38:21,656 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:38:21,659 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:38:21,659 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:39:53,144 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:39:53,145 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:39:53,148 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:39:53,148 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:42:50,891 [Worker-34: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:42:50,892 [Worker-34: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:42:50,895 [Worker-34: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:42:50,895 [Worker-34: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:43:13,561 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:43:13,562 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:43:13,564 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:43:13,564 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:43:26,551 [Worker-41: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:43:26,552 [Worker-41: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:43:26,554 [Worker-41: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:43:26,554 [Worker-41: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:43:36,375 [Worker-36: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:43:36,375 [Worker-36: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:43:36,380 [Worker-36: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:43:36,381 [Worker-36: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:43:43,041 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:43:43,041 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:43:43,044 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:43:43,045 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:44:38,367 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:44:38,367 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:44:38,371 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:44:38,371 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:44:57,918 [Worker-37: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:44:57,918 [Worker-37: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:44:57,920 [Worker-37: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:44:57,920 [Worker-37: Launching Property_Ready] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:52:04,276 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:52:04,276 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:52:04,279 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:52:04,280 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:54:47,536 [Worker-44: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:54:47,537 [Worker-44: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:54:47,539 [Worker-44: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:54:47,540 [Worker-44: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:54:59,128 [Worker-43: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:54:59,129 [Worker-43: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:54:59,131 [Worker-43: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:54:59,131 [Worker-43: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:55:09,993 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:55:09,994 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:55:09,995 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:55:09,995 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:57:57,478 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:57:57,478 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:57:57,479 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:57:57,480 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:58:35,093 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:58:35,093 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:58:35,095 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:58:35,096 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 10:59:46,549 [Worker-45: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:59:46,549 [Worker-45: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 10:59:46,551 [Worker-45: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 10:59:46,551 [Worker-45: Launching TestBase (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:00:03,664 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:00:03,664 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:00:03,665 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:00:03,665 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:00:43,414 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:00:43,414 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:00:43,415 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:00:43,415 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:01:01,885 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:01:01,885 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:01:01,886 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:01:01,886 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:01:39,746 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:01:39,746 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:01:39,748 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:01:39,748 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:02:32,806 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:02:32,806 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:02:32,807 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:02:32,808 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:07:10,440 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:07:10,440 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:07:10,442 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:07:10,442 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:10:45,825 [Worker-47: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:10:45,825 [Worker-47: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:10:45,827 [Worker-47: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:10:45,827 [Worker-47: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:11:26,512 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:11:26,513 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-25 11:11:26,514 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:11:26,514 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-25 11:11:26,661 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:11:26,661 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:11:26,663 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:11:26,663 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:13:04,291 [Worker-46: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:13:04,292 [Worker-46: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:13:04,294 [Worker-46: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:13:04,295 [Worker-46: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:26:53,054 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:26:53,054 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:26:53,056 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:26:53,057 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:29:34,783 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:29:34,783 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:29:34,785 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:29:34,786 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:32:30,984 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:32:30,985 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:32:30,986 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:32:30,986 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:32:41,835 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:32:41,836 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:32:41,838 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:32:41,838 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:33:35,072 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:33:35,073 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:33:35,075 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:33:35,075 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:35:22,222 [Worker-43: Launching TestUtil (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:35:22,223 [Worker-43: Launching TestUtil (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:35:22,225 [Worker-43: Launching TestUtil (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:35:22,225 [Worker-43: Launching TestUtil (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:35:45,246 [Worker-50: Launching TestUtil (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:35:45,246 [Worker-50: Launching TestUtil (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:35:45,249 [Worker-50: Launching TestUtil (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:35:45,249 [Worker-50: Launching TestUtil (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:45:40,503 [Worker-51: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:45:40,503 [Worker-51: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:45:40,505 [Worker-51: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:45:40,506 [Worker-51: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:45:55,529 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:45:55,530 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:45:55,530 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:45:55,531 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:46:53,967 [Worker-50: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:46:53,967 [Worker-50: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:46:53,969 [Worker-50: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:46:53,969 [Worker-50: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:47:08,216 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:47:08,217 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:47:08,218 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:47:08,218 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:48:02,213 [Worker-57: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:48:02,214 [Worker-57: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:48:02,215 [Worker-57: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:48:02,215 [Worker-57: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:48:23,878 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:48:23,878 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:48:23,879 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:48:23,879 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:51:49,025 [Worker-56: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:51:49,025 [Worker-56: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:51:49,027 [Worker-56: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:51:49,028 [Worker-56: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:52:03,401 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:52:03,401 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:52:03,402 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:52:03,402 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:53:38,953 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:53:38,954 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:53:38,955 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:53:38,955 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:53:50,840 [Worker-50: Launching Sauce_Framework_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:53:50,840 [Worker-50: Launching Sauce_Framework_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:53:50,842 [Worker-50: Launching Sauce_Framework_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:53:50,842 [Worker-50: Launching Sauce_Framework_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:54:12,594 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:54:12,594 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:54:12,595 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:54:12,595 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:55:47,868 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:55:47,869 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:55:47,870 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:55:47,870 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:56:13,785 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:56:13,785 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:56:13,786 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:56:13,787 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:57:16,343 [Worker-57: Launching Executing test in S__EC_WORKSPACE_QA JUNE 27 BATCH_Sauce_Framework] INFO  o.e.m.i.launch.MavenLaunchDelegate - S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework
+2022-07-25 11:57:16,346 [Worker-57: Launching Executing test in S__EC_WORKSPACE_QA JUNE 27 BATCH_Sauce_Framework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2022-07-25 11:57:40,601 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:57:40,601 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:57:40,602 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:57:40,602 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:58:39,529 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:58:39,529 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:58:39,530 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:58:39,531 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 11:58:56,043 [Worker-61: Launching Executing test in S__EC_WORKSPACE_QA JUNE 27 BATCH_Sauce_Framework] INFO  o.e.m.i.launch.MavenLaunchDelegate - S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework
+2022-07-25 11:58:56,043 [Worker-61: Launching Executing test in S__EC_WORKSPACE_QA JUNE 27 BATCH_Sauce_Framework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2022-07-25 11:59:19,710 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:59:19,710 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
+2022-07-25 11:59:19,711 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-25 11:59:19,711 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
