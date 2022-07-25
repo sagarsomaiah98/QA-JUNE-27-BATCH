@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class TakeScreenshot_Ex {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException, InterruptedException {
 System.setProperty("webdriver.chrome.driver", "S:\\EC\\WORKSPACE\\QA JUNE 27 BATCH\\DRIVERS\\chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
@@ -17,9 +17,10 @@ System.setProperty("webdriver.chrome.driver", "S:\\EC\\WORKSPACE\\QA JUNE 27 BAT
 		driver.manage().window().maximize();
 		driver.get("https://login.salesforce.com/?locale=in");
 		
-		File source = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-	      FileUtils.copyFile(source, new File("S:\\EC\\WORKSPACE\\QA JUNE 27 BATCH\\QA CLASS 13 SELENIUM METHODS\\src\\SCREENSHOTS\\screenshot.png"));
+		  File source = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+	      FileUtils.copyFile(source, new File("S:\\EC\\WORKSPACE\\QA JUNE 27 BATCH\\QA CLASS 13 SELENIUM METHODS\\src\\SCREENSHOTS\\login.png"));
 	
+	      Thread.sleep(2000);
 	      driver.quit();
 	}
 
