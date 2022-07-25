@@ -721,3 +721,14 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestUtil references
 2022-07-21 11:48:24,857 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
 2022-07-21 11:48:24,859 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-21 11:48:24,859 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-24 13:04:08,023 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-24 14:03:16,771 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-24 14:06:30,226 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 14:06:30,227 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-24 14:06:30,229 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 14:06:30,230 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-24 14:07:31,267 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 14:07:31,268 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\main\resources
+2022-07-24 14:07:31,270 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-24 14:07:31,270 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\SampleMaven\src\test\resources
+2022-07-24 23:01:40,215 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
