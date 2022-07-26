@@ -987,3 +987,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestUtil references
 2022-07-25 11:59:19,710 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\main\resources
 2022-07-25 11:59:19,711 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-25 11:59:19,711 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\EC\WORKSPACE\QA JUNE 27 BATCH\Sauce_Framework\src\test\resources
+2022-07-25 21:25:33,909 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
